@@ -1,0 +1,18 @@
+# Git Local Commands
+
+# git init
+# git add .
+# git commit -m "message"
+# git status
+# git log (press q to quit)
+# git checkout [unique commit id]
+
+
+
+
+# Git Remote Commands
+
+# git remote add origin [url]
+# git remote -v
+# git push origin master
+# git pull origin master
